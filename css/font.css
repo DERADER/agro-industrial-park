@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Buyan';
+    src: url('../fonts/');
+    src: url('../fonts/?#iefix') format('embedded-opentype'),
+        url('../fonts/Buyan-Bold.woff2') format('woff2'),
+        url('../fonts/Buyan-Bold.woff') format('woff'),
+        url('../fonts/Buyan-Bold.ttf') format('truetype'),
+        url('../fonts/Buyan-Bold.svg#Buyan-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../fonts/Manrope-Regular.eot');
+    src: url('../fonts/Manrope-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Manrope-Regular.woff2') format('woff2'),
+        url('../fonts/Manrope-Regular.woff') format('woff'),
+        url('../fonts/Manrope-Regular.ttf') format('truetype'),
+        url('../fonts/Manrope-Regular.svg#Manrope-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../fonts/Manrope-Bold.eot');
+    src: url('../fonts/Manrope-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Manrope-Bold.woff2') format('woff2'),
+        url('../fonts/Manrope-Bold.woff') format('woff'),
+        url('../fonts/Manrope-Bold.ttf') format('truetype'),
+        url('../fonts/Manrope-Bold.svg#Manrope-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
